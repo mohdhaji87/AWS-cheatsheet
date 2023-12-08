@@ -236,3 +236,58 @@ aws s3api put-bucket-acl --bucket $aclrwbucket --grant-read-acp uri=http://acs.a
 
 
 ------------------------------------------------------------------------------------
+
+# lambda invocation
+
+
+
+<img width="1212" alt="image" src="https://github.com/mohdhaji87/AWS-cheatsheet/assets/8140763/c85e8e71-1a8d-4c14-834a-1763eae46e82">
+
+
+
+
+<img width="1212" alt="image" src="https://github.com/mohdhaji87/AWS-cheatsheet/assets/8140763/79aba158-0678-481c-b9ac-42b9cbb31088">
+
+
+
+<img width="1212" alt="image" src="https://github.com/mohdhaji87/AWS-cheatsheet/assets/8140763/0f57a7db-02d8-4430-991f-8a5f5878b343">
+
+
+
+<img width="1212" alt="image" src="https://github.com/mohdhaji87/AWS-cheatsheet/assets/8140763/8b88ffea-7583-4ab4-9f9c-c869fdf8f258">
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+# RDS snapshots
+
+
+
+
+<img width="1212" alt="image" src="https://github.com/mohdhaji87/AWS-cheatsheet/assets/8140763/2deac7d1-a92e-4735-a155-f45391ea6b2c">
+
+
+<img width="1212" alt="image" src="https://github.com/mohdhaji87/AWS-cheatsheet/assets/8140763/8041851e-4a53-43ca-964f-6db9db9cc3d2">
+
+
+
+<img width="1212" alt="image" src="https://github.com/mohdhaji87/AWS-cheatsheet/assets/8140763/30d12520-3491-4482-a0ef-a856dcbbbcd3">
+
+
+
+<img width="1212" alt="image" src="https://github.com/mohdhaji87/AWS-cheatsheet/assets/8140763/0c3ae238-80b0-445e-89bc-f2769cf0cf67">
+
+
+
+
+<img width="1212" alt="image" src="https://github.com/mohdhaji87/AWS-cheatsheet/assets/8140763/9ea4818c-835d-435b-bafc-0f73dd58baa0">
+
+
+
+
+<img width="1212" alt="image" src="https://github.com/mohdhaji87/AWS-cheatsheet/assets/8140763/f88a52be-a696-4bce-833d-5cf4eb8ab753">
+
+
